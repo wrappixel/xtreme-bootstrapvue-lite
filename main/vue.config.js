@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "/",
+  publicPath: "/demos/free-admin-templates/xtreme-vuesax-free/main/",
 };
