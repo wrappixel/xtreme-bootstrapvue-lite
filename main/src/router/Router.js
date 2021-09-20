@@ -4,18 +4,19 @@ import Router from "vue-router";
 Vue.use(Router);
 
 const router = new Router({
-  mode: "history",
+  // mode: "history",
+  mode: "",
   base: process.env.BASE_URL,
 
   routes: [
     {
       path: "/",
-      redirect: "/starter",
+      redirect: "/starterkit",
       component: () => import("@/layouts/full-layout/FullLayout"),
       children: [
         {
           name: "Starter",
-          path: "starter",
+          path: "starterkit",
           component: () => import("@/views/Starter"),
         },
         {
