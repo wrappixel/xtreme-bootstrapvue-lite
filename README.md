@@ -1,10 +1,5 @@
-# <a href="https://demos.wrappixel.com/free-admin-templates/vuejs/xtreme-vuejs-free/main/#/starterkit">Xtreme BootstrapVue Free</a>
+# <a href="https://wrappixel.com/templates/spike-free-vuejs-admin-template">Xtreme BootstrapVue Free</a>
 Xtreme Bootstrap Vue Admin Dashboard
-
-<!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-vuesax-lite-y.jpg" />
-</a>
 
 
 # Compare with Premium Version 🌓
@@ -19,18 +14,18 @@ Xtreme Bootstrap Vue Admin Dashboard
 <tbody>
 <tr>
   <td>
-    <a href="https://demos.wrappixel.com/free-admin-templates/vuejs/xtreme-vuejs-free/main/#/starterkit">Live Preview</a>
+    <a href="https://spike-vue-free.netlify.app">Live Preview</a>
   </td>
   <td>
-  <a href="https://demos.wrappixel.com/free-admin-templates/vuejs/xtreme-vuejs-free/landingpage/index.html">Live Preview</a>
+  <a href="https://spike-vue-main.netlify.app/dashboard1">Live Preview</a>
   </td>
 </tr>
 <tr>
   <td>
-      <a href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/">Download Now</a>
+      <a href="https://wrappixel.com/templates/xtreme-vuesax-admin-lite"><b>Download Now</b></a>
   </td>
   <td>
-    <a href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/">Purchase Now</a>
+    <a href="https://wrappixel.com/templates/xtreme-vuesax-admin-pro"><b>Purchase Now</b></a>
   </td>
 </tr>
 <tr>
@@ -134,12 +129,12 @@ Xtreme Bootstrap Vue Admin Dashboard
 
 # Upgrade to Premium version
 
-<a target="_blank" href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/">
+<a target="_blank" href="https://wrappixel.com/templates/xtreme-vuesax-admin-pro">
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-vuesax-admin-y.jpg" alt="">
 </a>
 <p>
   Checkout our premium version of Xtreme Bootstrap Vue Dashboard Template for lots more features and ready to use page templates.<br>
-  <a href="https://demos.wrappixel.com/free-admin-templates/vuejs/xtreme-vuejs-free/landingpage/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/">Download</a>
+  <a href="https://spike-vue-main.netlify.app/dashboard1"> Check Live Preview </a> | <a href="https://wrappixel.com/templates/xtreme-vuesax-admin-pro"><b>Download</b></a>
 </p>
 
 <!-- Versions of Template -->
@@ -156,22 +151,22 @@ Xtreme Bootstrap Vue Admin Dashboard
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/xtremeadmin/" width="150px">
+  <a href="https://wrappixel.com/templates/xtremeadmin" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-y.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/xtreme-angular-admin/" rel="nofollow" width="150px">
+  <a href="https://wrappixel.com/templates/xtreme-angular-admin" rel="nofollow" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-angular-admin-y.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/xtreme-nextjs-admin-dashboard/" width="150px">
+  <a href="https://wrappixel.com/templates/xtreme-nextjs-admin-dashboard" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2022/02/xtreme-nextjs-image.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/xtreme-react-redux-admin/" rel="nofollow" width="150px">
+  <a href="https://wrappixel.com/templates/xtreme-react-redux-admin" rel="nofollow" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-react-admin-template-y.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
@@ -187,17 +182,17 @@ Xtreme Bootstrap Vue Admin Dashboard
 
 <!-- Useful Links of Template -->
 # Useful Links
-- <p><a href="https://www.wrappixel.com/">Admin Theme</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro/">Bootstrap Themes</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-lite/">Free Bootstrap Admin Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/">React Bootstrap Template</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">Vuejs Templates</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com"><b>Admin Theme</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro"><b>Bootstrap Themes</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-lite"><b>Free Bootstrap Admin Templates</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-react-redux-admin"><b>React Bootstrap Template</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-vuetify-admin"><b>Vuejs Templates</b></a> from Wrappixel</p>
 
 
 <!-- Licensing of Template -->
 # Licensing
-- <p>Copyright 2024 Wrappixel <a href="https://www.wrappixel.com/">https://wrappixel.com/</a></p>
-- <p>Licensed under MIT <a href="https://www.wrappixel.com/license/">https://wrappixel.com/license/</a></p>
+- <p>Copyright 2024 Wrappixel <a href="https://wrappixel.com"><b>https://wrappixel.com</b></a></p>
+- <p>Licensed under MIT <a href="https://wrappixel.com/license"><b>https://wrappixel.com/license</b></a></p>
 
 
 <!-- Social Media of Adminmart -->
@@ -209,4 +204,3 @@ Xtreme Bootstrap Vue Admin Dashboard
 - <p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
 - <p>Discord: <a href="https://discord.com/invite/eMzE8F6Wqs">https://discord.com/invite/eMzE8F6Wqs</a></p>
 - <p>Youtube: <a href="https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ">https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ</a></p>
-
